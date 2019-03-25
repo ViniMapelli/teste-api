@@ -1,0 +1,14 @@
+C:\TruckUber\testeapi\obj\Debug\netcoreapp2.2\testeapi.csprojAssemblyReference.cache
+C:\TruckUber\testeapi\obj\Debug\netcoreapp2.2\testeapi.csproj.CoreCompileInputs.cache
+C:\TruckUber\testeapi\obj\Debug\netcoreapp2.2\testeapi.RazorAssemblyInfo.cache
+C:\TruckUber\testeapi\obj\Debug\netcoreapp2.2\testeapi.RazorAssemblyInfo.cs
+C:\TruckUber\testeapi\obj\Debug\netcoreapp2.2\testeapi.AssemblyInfoInputs.cache
+C:\TruckUber\testeapi\obj\Debug\netcoreapp2.2\testeapi.AssemblyInfo.cs
+C:\TruckUber\testeapi\bin\Debug\netcoreapp2.2\testeapi.deps.json
+C:\TruckUber\testeapi\bin\Debug\netcoreapp2.2\testeapi.runtimeconfig.json
+C:\TruckUber\testeapi\bin\Debug\netcoreapp2.2\testeapi.runtimeconfig.dev.json
+C:\TruckUber\testeapi\bin\Debug\netcoreapp2.2\testeapi.dll
+C:\TruckUber\testeapi\bin\Debug\netcoreapp2.2\testeapi.pdb
+C:\TruckUber\testeapi\obj\Debug\netcoreapp2.2\testeapi.RazorTargetAssemblyInfo.cache
+C:\TruckUber\testeapi\obj\Debug\netcoreapp2.2\testeapi.dll
+C:\TruckUber\testeapi\obj\Debug\netcoreapp2.2\testeapi.pdb
